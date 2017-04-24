@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿<?php 
+
+?>
+<!DOCTYPE html>
 <!--
 Copyright 2012 Mozilla Foundation
 
